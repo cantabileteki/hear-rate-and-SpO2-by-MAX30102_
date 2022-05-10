@@ -12,4 +12,4 @@ algorithm.c calculates the heart rate/SpO2 level, and
 algorithm.h is its header file. 
 main_cm4.c works as the main application for this program.
 
-the algorithm mostly referenced https://github.com/aromring/MAX30102_by_RF/blob/master/algorithm_by_RF.cpp
+
